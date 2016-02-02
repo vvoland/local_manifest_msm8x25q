@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-11.0" remote="github" />
+    <project path="hardware/qcom/display-legacy" name="vvoland/android_hardware_qcom_display-legacy" revision="cm-11.0" remote="github" />
+    <project path="device/smartfren/msm8x25q_d5c" name="vvoland/android_device_smartfren_msm8x25q_d5c" revision="cm-11.0" remote="github" />
+</manifest>
