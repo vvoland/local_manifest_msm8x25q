@@ -3,4 +3,7 @@
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-11.0" remote="github" />
     <project path="hardware/qcom/display-legacy" name="vvoland/android_hardware_qcom_display-legacy" revision="cm-11.0" remote="github" />
     <project path="device/smartfren/msm8x25q_d5c" name="vvoland/android_device_smartfren_msm8x25q_d5c" revision="cm-11.0" remote="github" />
+
+    <remove-project name="CyanogenMod/android_bootable_recovery" />
+    <project path="bootable/recovery" name="TeamWin/Team-Win-Recovery-Project" revision="android-5.1" remote="github" />
 </manifest>
